@@ -34,7 +34,7 @@ int main() {
 The flag for this challenge is the C representation of the expected output of this program. Make sure you include the quotation marks.
 
 
-###Hints: 
+### Hints: 
 
 Wikipedia Article on [Escape Sequences in C](https://en.wikipedia.org/wiki/Escape_sequences_in_C).
 
