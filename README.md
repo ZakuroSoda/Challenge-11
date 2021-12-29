@@ -1,4 +1,4 @@
-# Challenge 11
+## Challenge 11
 
 Different languages have different functions for I/O. Python has `input()` and `print()`, C++ has `cin` and `cout`, and C has `gets`, `puts`, `fgets`, `fputs`, `scanf`, `printf`, `getchar`, `putchar`, `read`, `write`....
 
@@ -34,7 +34,7 @@ int main() {
 The flag for this challenge is the C representation of the expected output of this program. Make sure you include the quotation marks.
 
 
-Hints: 
+###Hints: 
 
 Wikipedia Article on [Escape Sequences in C](https://en.wikipedia.org/wiki/Escape_sequences_in_C).
 
