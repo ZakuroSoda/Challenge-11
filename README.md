@@ -1,5 +1,4 @@
-# temporary
-i will delete this shit soon
+# Challenge 11
 
 Different languages have different functions for I/O. Python has `input()` and `print()`, C++ has `cin` and `cout`, and C has `gets`, `puts`, `fgets`, `fputs`, `scanf`, `printf`, `getchar`, `putchar`, `read`, `write`....
 
@@ -18,7 +17,8 @@ If you compile this program to the executable a.out, running the program should 
 $ ./a.out
 hello world!
 ```
-The C representation of the entire output is "hello world!\n". The funny \n character is an escape sequence; \n in particular is basically equivalent to the enter key on your keyboard.
+The C representation of the entire output is "hello world!\n". 
+The funny \n character is an escape sequence; \n in particular is basically equivalent to the enter key on your keyboard.
 
 Here is another program:
 ```c
