@@ -36,6 +36,6 @@ The flag for this challenge is the C representation of the expected output of th
 
 Hints: 
 
-[<img alt="Wiki" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/2244px-Wikipedia-logo-v2.svg.png" />](https://en.wikipedia.org/wiki/Escape_sequences_in_C)
+Wikipedia Article on [Escape Sequences in C](https://en.wikipedia.org/wiki/Escape_sequences_in_C).
 
 Try running the program in an [online compiler](https://www.onlinegdb.com/online_c_compiler). 
