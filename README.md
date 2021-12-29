@@ -1,7 +1,7 @@
 # temporary
 i will delete this shit soon
 
-Different languages have different functions for I/O. Python has `input()` and `print()`, C++ has `cin` and `cout`, and C has `gets`, `puts`, `fgets`, ``fputs`, `scanf`, `printf`, `getchar`, `putchar`, `read`, `write`....
+Different languages have different functions for I/O. Python has `input()` and `print()`, C++ has `cin` and `cout`, and C has `gets`, `puts`, `fgets`, `fputs`, `scanf`, `printf`, `getchar`, `putchar`, `read`, `write`....
 
 CTF challenges tend to mix and match a lot of these input functions, so it's important that you understand the difference.
 
